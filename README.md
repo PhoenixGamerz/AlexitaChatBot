@@ -3,8 +3,6 @@ Just another Telegram AI chat bot written in Python using Pyrogram.
 
 A public running instance can be found on telegram as [@AlexitaChat_bot](https://t.me/AlexitaChat_bot).
 
-<img src="https://te.legra.ph/file/4aa47d49eeddd93c5d25e.jpg" width="200" align="right">
-
 ## Requirements
 
 - Python 3.7 or higher.
